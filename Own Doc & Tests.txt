@@ -1,0 +1,8 @@
+https://www.twilio.com/docs/sms/tutorials/server-notifications-node-express
+https://github.com/TwilioDevEd/server-notifications-node
+
+Account SID: ACc03f3465e49e73c0648a8e71a36457a7
+Auth Token: a9bbd55c53f391ad6e620c50ff6c7b1f
+
+git clone git@github.com:TwilioDevEd/server-notifications-node.git
+cd server-notifications-node
